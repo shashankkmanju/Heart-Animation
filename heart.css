@@ -3,7 +3,7 @@
     height: 200px;
     width: 200px;
     transform: rotate(45deg);
-   margin: 50% ;
+   margin: 25% ;
    position: absolute;
    animation: shashank 1s infinite;
 }
