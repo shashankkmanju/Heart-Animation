@@ -1,0 +1,29 @@
+.a{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    transform: rotate(45deg);
+   margin: 20% ;
+   position: absolute;
+}
+.b{
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+
+}
+.c{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 50%;
+    position: relative;
+    margin-top: -45px;
+
+}
+.heart{
+    transform: rotate(90deg);
+    
+}
